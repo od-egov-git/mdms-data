@@ -235,34 +235,37 @@
       "code": "od.brhmapur",
       "name": "Brhmapur",
       "description": "Brhmapur",
+      "pincode": [756001,756002,756019,756025,756056],
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": null,
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "brhmapur@gmail.com",
+      "emailId": "mcbemc08@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
+      "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
         "name": "Brhmapur",
         "localName": null,
-        "districtCode": "BRHMAPUR",
-        "districtName": null,
+        "districtCode": "7",
+        "districtName": "Ganjam",
         "regionName": null,
-        "ulbGrade": "Municipal Corporation",
+        "ulbGrade": "B801881",
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "801881",
         "longitude": 74.8722642,
         "latitude": 31.6339793,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
         "ddrName": "DDR A"
       },
-      "address": "Brhmapur Municipal Corporation Address",
-      "contactNumber": "0978-7645345",
-      "helpLineNumber": "0654-8734567"
+      "address": "Ramalingam Tank Road, Gandhi Nagar, Brahmapur, Odisha - 760002",
+      "contactNumber": "0680-2250280",
+      "helpLineNumber": "0680-2250280"
     },
     {
       "code": "od.burla",
@@ -991,44 +994,13 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "od.berhampur",
-      "name": "Berhampur Municipal Corporation",
-      "description": "Berhampur Municipal Corporation",
+      "code": "od.balesore",
+      "name": "Balesore Municipality",
+      "description": "Balesore Municipality",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
       "domainUrl": null,
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcbemc08@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "city": {
-        "name": "Berhampur",
-        "localName": null,
-        "districtCode": "7",
-        "districtName": "Ganjam",
-        "regionName": null,
-        "ulbGrade": "B801881",
-        "longitude": 0,
-        "latitude": 0,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "801881"
-      },
-      "address": "Ramalingam Tank Road, Gandhi Nagar, Brahmapur, Odisha - 760002",
-      "contactNumber": "0680-2250280",
-      "helpLineNumber": "0680-2250280"
-    },
-    {
-      "code": "od.balasore",
-      "name": "Balasore Municipality",
-      "description": "Balasore Municipality",
-      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
-      "imageId": null,
-      "domainUrl": null,
+      "pincode":[756003,756001,756002],
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
@@ -1038,19 +1010,19 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Balasore",
+        "name": "Balesore",
         "localName": null,
         "districtCode": "8",
-        "districtName": "Balasore",
+        "districtName": "Balesore",
         "regionName": null,
-        "ulbGrade": "B+",
+        "ulbGrade": "B",
         "longitude": 0,
         "latitude": 0,
         "shapeFileLocation": null,
         "captcha": null,
         "code": "801833"
       },
-      "address": "Puruna Balasore Road, Khaira, Balasore, Odisha 756003"
+      "address": "Puruna Balesore Road, Khaira, Balesore, Odisha 756003"
     },
     {
       "code": "od.dhenkanal",
@@ -1058,6 +1030,7 @@
       "description": "Dhenkanal Municipality",
       "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
       "imageId": null,
+      "pincode":[759001,759013],
       "domainUrl": null,
       "type": "CITY",
       "twitterUrl": null,

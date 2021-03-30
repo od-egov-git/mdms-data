@@ -1,5 +1,5 @@
 {
-  "tenantId": "od.balasore",
+  "tenantId": "od.balesore",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,29 +10,29 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balasore",
-        "localname": "Balasore",
+        "name": "Balesore",
+        "localname": "Balesore",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balasore",
+        "code": "od.balesore",
         "children":[
             {
-                "name": "Puruna Balasore (P) Mahammad pur(P)",
+                "name": "Puruna Balesore (P) Mahammad pur(P)",
                 "label": "Locality",
                 "code": "VIL1",
                 "id": "2",
                 "boundaryNum": "1",
-                "localname": "Puruna Balasore (P) Mahammad pur(P)",
+                "localname": "Puruna Balesore (P) Mahammad pur(P)",
                 "pincode": [756003]
             },
             {
-                "name": "Sunhat (P) Puruna Balasore(P) Badkhua Lane, Rezaullha Lane, Chandipur road",
+                "name": "Sunhat (P) Puruna Balesore(P) Badkhua Lane, Rezaullha Lane, Chandipur road",
                 "label": "Locality",
                 "code": "VIL2",
                 "id": "3",
                 "boundaryNum": "1",
-                "localname": "Sunhat (P) Puruna Balasore(P) Badkhua Lane, Rezaullha Lane, Chandipur road",
+                "localname": "Sunhat (P) Puruna Balesore(P) Badkhua Lane, Rezaullha Lane, Chandipur road",
                 "pincode": [756003]
             },
             {
@@ -343,12 +343,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Balasore",
-        "localname": "Balasore",
+        "name": "Balesore",
+        "localname": "Balesore",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "od.balasore"
+        "code": "od.balesore"
       }
     }
   ]

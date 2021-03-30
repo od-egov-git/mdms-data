@@ -25,7 +25,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL1"
+            "code": "VIL1",
+            "pincode": [ 760001 ]
           },
           {
             "id": "3",
@@ -35,7 +36,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL2"
+            "code": "VIL2",
+            "pincode": [ 760001 ]
           },
           {
             "id": "4",
@@ -45,7 +47,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL3"
+            "code": "VIL3",
+            "pincode": [ 760001 ]
           },
           {
             "id": "5",
@@ -55,7 +58,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL4"
+            "code": "VIL4",
+            "pincode": [ 760001 ]
           },
           {
             "id": "6",
@@ -65,7 +69,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL5"
+            "code": "VIL5",
+            "pincode": [ 760001 ]
           },
           {
             "id": "7",
@@ -75,7 +80,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL6"
+            "code": "VIL6",
+            "pincode": [ 760001 ]
           },
           {
             "id": "8",
@@ -85,7 +91,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL7"
+            "code": "VIL7",
+            "pincode": [ 760001 ]
           },
           {
             "id": "9",
@@ -95,7 +102,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL8"
+            "code": "VIL8",
+            "pincode": [ 760001 ]
           },
           {
             "id": "10",
@@ -105,7 +113,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL9"
+            "code": "VIL9",
+            "pincode": [ 760001 ]
           },
           {
             "id": "11",
@@ -115,7 +124,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL10"
+            "code": "VIL10",
+            "pincode": [ 760001 ]
           },
           {
             "id": "12",
@@ -125,7 +135,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL11"
+            "code": "VIL11",
+            "pincode": [ 760001 ]
           },
           {
             "id": "13",
@@ -135,7 +146,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL12"
+            "code": "VIL12",
+            "pincode": [ 760001 ]
           },
           {
             "id": "14",
@@ -145,7 +157,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL13"
+            "code": "VIL13",
+            "pincode": [ 760001 ]
           },
           {
             "id": "15",
@@ -155,7 +168,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL14"
+            "code": "VIL14",
+            "pincode": [ 760001 ]
           },
           {
             "id": "16",
@@ -165,7 +179,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL15"
+            "code": "VIL15",
+            "pincode": [ 760001 ]
           },
           {
             "id": "17",
@@ -175,7 +190,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL16"
+            "code": "VIL16",
+            "pincode": [ 760001 ]
           },
           {
             "id": "18",
@@ -185,7 +201,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL17"
+            "code": "VIL17",
+            "pincode": [ 760001 ]
           },
           {
             "id": "19",
@@ -195,7 +212,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL18"
+            "code": "VIL18",
+            "pincode": [ 760001 ]
           },
           {
             "id": "20",
@@ -205,7 +223,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL19"
+            "code": "VIL19",
+            "pincode": [ 760001 ]
           },
           {
             "id": "21",
@@ -215,7 +234,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL20"
+            "code": "VIL20",
+            "pincode": [ 760001 ]
           },
           {
             "id": "22",
@@ -225,7 +245,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL21"
+            "code": "VIL21",
+            "pincode": [ 760001 ]
           },
           {
             "id": "23",
@@ -235,7 +256,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL22"
+            "code": "VIL22",
+            "pincode": [ 760001 ]
           },
           {
             "id": "24",
@@ -245,7 +267,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL23"
+            "code": "VIL23",
+            "pincode": [ 760001 ]
           },
           {
             "id": "25",
@@ -255,7 +278,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL24"
+            "code": "VIL24",
+            "pincode": [ 760001 ]
           },
           {
             "id": "26",
@@ -265,7 +289,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL25"
+            "code": "VIL25",
+            "pincode": [ 760001 ]
           },
           {
             "id": "27",
@@ -275,7 +300,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL26"
+            "code": "VIL26",
+            "pincode": [ 760001 ]
           },
           {
             "id": "28",
@@ -285,7 +311,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL27"
+            "code": "VIL27",
+            "pincode": [ 760001 ]
           },
           {
             "id": "29",
@@ -295,7 +322,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL28"
+            "code": "VIL28",
+            "pincode": [ 760001 ]
           },
           {
             "id": "30",
@@ -305,7 +333,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL29"
+            "code": "VIL29",
+            "pincode": [ 760001 ]
           },
           {
             "id": "31",
@@ -315,7 +344,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL30"
+            "code": "VIL30",
+            "pincode": [ 760001 ]
           },
           {
             "id": "32",
@@ -325,7 +355,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL31"
+            "code": "VIL31",
+            "pincode": [ 760001 ]
           },
           {
             "id": "33",
@@ -335,7 +366,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL32"
+            "code": "VIL32",
+            "pincode": [ 760001 ]
           },
           {
             "id": "34",
@@ -345,7 +377,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL33"
+            "code": "VIL33",
+            "pincode": [ 760001 ]
           },
           {
             "id": "35",
@@ -355,7 +388,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL34"
+            "code": "VIL34",
+            "pincode": [ 760001 ]
           },
           {
             "id": "36",
@@ -365,7 +399,8 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL35"
+            "code": "VIL35",
+            "pincode": [ 760001 ]
           },
           {
             "id": "37",
@@ -375,7 +410,368 @@
             "longitude": null,
             "latitude": null,
             "label": "Locality",
-            "code": "VIL36"
+            "code": "VIL36",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "38",
+            "boundaryNum": "1",
+            "name": "Gola Raghunathpur. R. Raghunathpur, Matiya Raghunath pur, Acharya Street. Kakali Bada Street, Harida Khandi. Tota Sahi, Dhoba Sahi, Bauri sahi, Harijana Sahi. Dharmanagar. Shantinagar, Kailash Nagar, Bodo Sahi. Goudo Sahi.",
+            "localname": "Gola Raghunathpur. R. Raghunathpur, Matiya Raghunath pur, Acharya Street. Kakali Bada Street, Harida Khandi. Tota Sahi, Dhoba Sahi, Bauri sahi, Harijana Sahi. Dharmanagar. Shantinagar, Kailash Nagar, Bodo Sahi. Goudo Sahi.",
+            "label": "Locality",
+            "code": "BVIL0",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "39",
+            "boundaryNum": "1",
+            "name": "Ananda Nagar. Canal Street, Sramika Nagar, Duduman Colony, Kasi Nagar, Mhurikalua Street, Panigrahi Nagar, Gayatri Nagar, digapahani Road. 1St GateBurma Colone, Kathamentu road, Aska Road Near 1St Gate. Ambica nagar, Laxminarasing Street, Haridakhandi road.",
+            "localname": "Ananda Nagar. Canal Street, Sramika Nagar, Duduman Colony, Kasi Nagar, Mhurikalua Street, Panigrahi Nagar, Gayatri Nagar, digapahani Road. 1St GateBurma Colone, Kathamentu road, Aska Road Near 1St Gate. Ambica nagar, Laxminarasing Street, Haridakhandi road.",
+            "label": "Locality",
+            "code": "BVIL1",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "40",
+            "boundaryNum": "1",
+            "name": "Raghupati Nagar, aska road, Dhobandha Huda, Gurumurtipeta, Narayan Nagar, Cement Road Street, Chaitany Nagar, Ganapati Nagar, Khandiakumuti Sahi, Aska Road, Kansari Street, New Kalupatra Street.",
+            "localname": "Raghupati Nagar, aska road, Dhobandha Huda, Gurumurtipeta, Narayan Nagar, Cement Road Street, Chaitany Nagar, Ganapati Nagar, Khandiakumuti Sahi, Aska Road, Kansari Street, New Kalupatra Street.",
+            "label": "Locality",
+            "code": "BVIL2",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "41",
+            "boundaryNum": "1",
+            "name": "Forest Colony, New Raja Street, Sri Ramanagar (all area), Ratha Street, Adarsh Marg, Dashagharia Street, Pandara Bada Street, Brajaraj Nagar, Anandanagar, Nelia Bandha, Harsh Vihar.",
+            "localname": "Forest Colony, New Raja Street, Sri Ramanagar (all area), Ratha Street, Adarsh Marg, Dashagharia Street, Pandara Bada Street, Brajaraj Nagar, Anandanagar, Nelia Bandha, Harsh Vihar.",
+            "label": "Locality",
+            "code": "BVIL3",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "42",
+            "boundaryNum": "1",
+            "name": "Samanath Nagar All area, Aska road Main Road in front of Chatrubhuja Petrol Pump, Niladri Vihar (all area), Trinath Nagar, Tulasi Nagar (all area). Suraj Vihar, Subham Bihar, Bishnu Nagar, Aska Road",
+            "localname": "Samanath Nagar All area, Aska road Main Road in front of Chatrubhuja Petrol Pump, Niladri Vihar (all area), Trinath Nagar, Tulasi Nagar (all area). Suraj Vihar, Subham Bihar, Bishnu Nagar, Aska Road",
+            "label": "Locality",
+            "code": "BVIL4",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "43",
+            "boundaryNum": "1",
+            "name": "Rampa Street, Padma Nagar, Brudabati Nagar, Gate Bazar, Bank Colony, Bhabani Nagar, Burma Nagar, Banka Bihari Nagar, Radhakrushna Billa Street, Mukteswar Billa Street",
+            "localname": "Rampa Street, Padma Nagar, Brudabati Nagar, Gate Bazar, Bank Colony, Bhabani Nagar, Burma Nagar, Banka Bihari Nagar, Radhakrushna Billa Street, Mukteswar Billa Street",
+            "label": "Locality",
+            "code": "BVIL5",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "44",
+            "boundaryNum": "1",
+            "name": "Baria Billo Street, Padma nagar, Sarojini Peta, Balaki Peta, Govardhana Peta, dera Street, Sandha Mahanti Street, Aska Road, (South Side) Gramadevati Street, Police Colony, Taluka Police Colony, Kalupatra Sahi, Adua Street, Kedarswar Peta, Trimurty Jaganath Temple Street, Sankarpur Street, Sitaram Street, Jena Street, Pandara Street, Panigrahipentha Street, Aska Road.",
+            "localname": "Baria Billo Street, Padma nagar, Sarojini Peta, Balaki Peta, Govardhana Peta, dera Street, Sandha Mahanti Street, Aska Road, (South Side) Gramadevati Street, Police Colony, Taluka Police Colony, Kalupatra Sahi, Adua Street, Kedarswar Peta, Trimurty Jaganath Temple Street, Sankarpur Street, Sitaram Street, Jena Street, Pandara Street, Panigrahipentha Street, Aska Road.",
+            "label": "Locality",
+            "code": "BVIL6",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "45",
+            "boundaryNum": "1",
+            "name": "Raja Street, Bachwari Street, Dase Behera Street, Bada Bazar , Mahuri Raja Street, Kumbhar Street, Nadia Bazar, Chandrama Street, Elubehera Street, Marth petta Sahi, Malubehera St, Jangambadi Sahi",
+            "localname": "Raja Street, Bachwari Street, Dase Behera Street, Bada Bazar , Mahuri Raja Street, Kumbhar Street, Nadia Bazar, Chandrama Street, Elubehera Street, Marth petta Sahi, Malubehera St, Jangambadi Sahi",
+            "label": "Locality",
+            "code": "BVIL7",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "46",
+            "boundaryNum": "1",
+            "name": "Pattara street, Mangalabarmpeta, Jami street, Aga Street, Krishnama Peta, Bada Redika Street, Mediri Street, Sana Redika Street, Jagabandhu Street-1&2, Ganesh Nagar, Gajananapeta, Prahalad Nagar",
+            "localname": "Pattara street, Mangalabarmpeta, Jami street, Aga Street, Krishnama Peta, Bada Redika Street, Mediri Street, Sana Redika Street, Jagabandhu Street-1&2, Ganesh Nagar, Gajananapeta, Prahalad Nagar",
+            "label": "Locality",
+            "code": "BVIL8",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "47",
+            "boundaryNum": "1",
+            "name": "Pandabanagar, Sita Dhimira Street, Tota Street, Ainabandha Street, Radhakant Street, Radha Krushna Street, Pandara Street, Nelia Bandha Road, Talamentu Chaka, Bhima Nagar",
+            "localname": "Pandabanagar, Sita Dhimira Street, Tota Street, Ainabandha Street, Radhakant Street, Radha Krushna Street, Pandara Street, Nelia Bandha Road, Talamentu Chaka, Bhima Nagar",
+            "label": "Locality",
+            "code": "BVIL9",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "48",
+            "boundaryNum": "1",
+            "name": "Bauri Street, Purna Berhampur, Neelanchala Street, Purna Berhamur, Street, Khaspa Street, Jaura Street, PandarabadaStreet, Redika Street, (p), Karibari street, Chandrasekhar Street, Martha Street, Karana Street, Rajama Street, Gaigotha Street, Kharuda Street, Big Bazaar Gouda Street.",
+            "localname": "Bauri Street, Purna Berhampur, Neelanchala Street, Purna Berhamur, Street, Khaspa Street, Jaura Street, PandarabadaStreet, Redika Street, (p), Karibari street, Chandrasekhar Street, Martha Street, Karana Street, Rajama Street, Gaigotha Street, Kharuda Street, Big Bazaar Gouda Street.",
+            "label": "Locality",
+            "code": "BVIL10",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "49",
+            "boundaryNum": "1",
+            "name": "Prem Nagar-(1to6), Dharamanagar (all) Municipal Colony (back), Purnabasi Colony, Harrijana Basti, Municiality Colony, Prema Nagar-7th line, Prem Nagar (west), Cannal Street, Harishara Nagar, Bimala Naga, Ganesh Nagar.",
+            "localname": "Prem Nagar-(1to6), Dharamanagar (all) Municipal Colony (back), Purnabasi Colony, Harrijana Basti, Municiality Colony, Prema Nagar-7th line, Prem Nagar (west), Cannal Street, Harishara Nagar, Bimala Naga, Ganesh Nagar.",
+            "label": "Locality",
+            "code": "BVIL11",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "50",
+            "boundaryNum": "1",
+            "name": "Utkal Cinema Road, Medri Street, ranguni Bandha Street, (all) Sastri Nagar (all) Jamadeipentha, sankari Street, Narasing Deula Street, Panchudeula Street, Rangalaa Tota",
+            "localname": "Utkal Cinema Road, Medri Street, ranguni Bandha Street, (all) Sastri Nagar (all) Jamadeipentha, sankari Street, Narasing Deula Street, Panchudeula Street, Rangalaa Tota",
+            "label": "Locality",
+            "code": "BVIL12",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "51",
+            "boundaryNum": "1",
+            "name": "Main Road Brit Colony, Housing Bard (all Meenakhi Nagar, Nilakantha nagar, Brit colony, Trinath Nagar, Narasingh Nagar, Sribach Nagar, Kothari Temple Street, Nirakar Nagar, Panchanan Nagar, Arabinda Nagar, Hari Krushna Nagar.",
+            "localname": "Main Road Brit Colony, Housing Bard (all Meenakhi Nagar, Nilakantha nagar, Brit colony, Trinath Nagar, Narasingh Nagar, Sribach Nagar, Kothari Temple Street, Nirakar Nagar, Panchanan Nagar, Arabinda Nagar, Hari Krushna Nagar.",
+            "label": "Locality",
+            "code": "BVIL13",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "52",
+            "boundaryNum": "1",
+            "name": "Addamji Lane, Kamala Wari Street, Daya Mahanty, Bandha Road, City High school Road, Pauls Lane, Berika Street, Venketswara Temple Street, Kallika Temple Street, Gopal Rao Garuda, Jayanti Petta, Dallusu Wari Street, Metta Street, Sani Baram Petta, Pakala Wari Street, Thakurani Tample Street, Much Street, Nua Gouda Street, Knasari Street, Gadivari Stret, Malasen Petta, Pudipedavari Street.",
+            "localname": "Addamji Lane, Kamala Wari Street, Daya Mahanty, Bandha Road, City High school Road, Pauls Lane, Berika Street, Venketswara Temple Street, Kallika Temple Street, Gopal Rao Garuda, Jayanti Petta, Dallusu Wari Street, Metta Street, Sani Baram Petta, Pakala Wari Street, Thakurani Tample Street, Much Street, Nua Gouda Street, Knasari Street, Gadivari Stret, Malasen Petta, Pudipedavari Street.",
+            "label": "Locality",
+            "code": "BVIL14",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "53",
+            "boundaryNum": "1",
+            "name": "Patro Petta Street, Abdul Bahar Street, Koka Wari Street, Giri Market, Musiaganti Street, Urban Bank Road, Vardawari Street, Gallila Street, Gallila Street, Bhapur Bazar, ankula Street, Telgu Dhoba Street, Telgubhandari Street , kampa Street, K.C. Town High School Road, Park Street, Ramalingaswar Road, S.N.T Road Khalasi Street, (all lines). Corporation Road.",
+            "localname": "Patro Petta Street, Abdul Bahar Street, Koka Wari Street, Giri Market, Musiaganti Street, Urban Bank Road, Vardawari Street, Gallila Street, Gallila Street, Bhapur Bazar, ankula Street, Telgu Dhoba Street, Telgubhandari Street , kampa Street, K.C. Town High School Road, Park Street, Ramalingaswar Road, S.N.T Road Khalasi Street, (all lines). Corporation Road.",
+            "label": "Locality",
+            "code": "BVIL15",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "54",
+            "boundaryNum": "1",
+            "name": "Military line (1&2), Bhimarao Petta, Dalua Street, Raula Street, Pandarawadi Street, Raghunath Petta, Madhuriwari Street, Bangali Street, Irrigation Colony, Vetanary Colony, Police lane, Muchi Sahi, Khaja Street, Militaline Main road, Cantonment road, Radha Krushna Canal Street.",
+            "localname": "Military line (1&2), Bhimarao Petta, Dalua Street, Raula Street, Pandarawadi Street, Raghunath Petta, Madhuriwari Street, Bangali Street, Irrigation Colony, Vetanary Colony, Police lane, Muchi Sahi, Khaja Street, Militaline Main road, Cantonment road, Radha Krushna Canal Street.",
+            "label": "Locality",
+            "code": "BVIL16",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "55",
+            "boundaryNum": "1",
+            "name": "Sanatrani Street, Gouda Stret, Kapilleswar Petta, Bandha Street, Masjid Lane, Bhuta Street, Lala Street, Rauta Penth Street, Sana Bazar, Phulla Sundari Street, Nua Street, balaji Pentho street, Triveni Nagar, Gula Street, Gunduluvari Street, Hanuman Bazar, Bandhahuda Tameya Tank, Madhb Nagar, Manan Mohan Nagar, Gangadhar Nagar, Hanuman Nagar, Mathura Nagar.",
+            "localname": "Sanatrani Street, Gouda Stret, Kapilleswar Petta, Bandha Street, Masjid Lane, Bhuta Street, Lala Street, Rauta Penth Street, Sana Bazar, Phulla Sundari Street, Nua Street, balaji Pentho street, Triveni Nagar, Gula Street, Gunduluvari Street, Hanuman Bazar, Bandhahuda Tameya Tank, Madhb Nagar, Manan Mohan Nagar, Gangadhar Nagar, Hanuman Nagar, Mathura Nagar.",
+            "label": "Locality",
+            "code": "BVIL17",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "56",
+            "boundaryNum": "1",
+            "name": "Mitra Street, Teli Street, Pallia Street, Mukteswar Temple Street, Bagulli Street, Gundu Malla Street, Dig Murti Street, Fire Station Road, Chaterji Lane, State Bank Road, New Barackes Street, City hospital Road, Babaji Tota Street, Brahamna Street, Chandra Prabha Street 1&2, Ratha Street, Church Road, Telephone Bhawan, Convent school road, Town Hall Road, Chikit Bangala, Panigrahi Street, Pallor Bunglow, Bauri Street, Badhei Street.",
+            "localname": "Mitra Street, Teli Street, Pallia Street, Mukteswar Temple Street, Bagulli Street, Gundu Malla Street, Dig Murti Street, Fire Station Road, Chaterji Lane, State Bank Road, New Barackes Street, City hospital Road, Babaji Tota Street, Brahamna Street, Chandra Prabha Street 1&2, Ratha Street, Church Road, Telephone Bhawan, Convent school road, Town Hall Road, Chikit Bangala, Panigrahi Street, Pallor Bunglow, Bauri Street, Badhei Street.",
+            "label": "Locality",
+            "code": "BVIL18",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "57",
+            "boundaryNum": "1",
+            "name": "Raghunath Temple Street, Bada Kehmundi Street, Gollapalli Street, Surya Nagar, Harijan Colony, Cannal Street, Chandramani Petta, Bhagavati Gadi, Manjari Nagar, Bhandari Street.",
+            "localname": "Raghunath Temple Street, Bada Kehmundi Street, Gollapalli Street, Surya Nagar, Harijan Colony, Cannal Street, Chandramani Petta, Bhagavati Gadi, Manjari Nagar, Bhandari Street.",
+            "label": "Locality",
+            "code": "BVIL19",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "58",
+            "boundaryNum": "1",
+            "name": "Dasiri Street, Nua Street, Jagili Street, New Canal Street, Lochapada Road, Mochi street, Bada Harizan Street, Sana Harizan Street, dudarshan Colony, Dhoba Sahi.",
+            "localname": "Dasiri Street, Nua Street, Jagili Street, New Canal Street, Lochapada Road, Mochi street, Bada Harizan Street, Sana Harizan Street, dudarshan Colony, Dhoba Sahi.",
+            "label": "Locality",
+            "code": "BVIL20",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "59",
+            "boundaryNum": "1",
+            "name": "Brahman Nagar (all area), ORT Colony, Laxmi Nagar, Muktipath Street, Baikuntha Nagar (all area).",
+            "localname": "Brahman Nagar (all area), ORT Colony, Laxmi Nagar, Muktipath Street, Baikuntha Nagar (all area).",
+            "label": "Locality",
+            "code": "BVIL21",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "60",
+            "boundaryNum": "1",
+            "name": "Gandhi Nagar Canal Street (I,II,III,). Gandhi Nagar 3rd lane, Gandhi Nagar Part, Gandhi Nagar 1&2. Spectrum Coloney, Gandhi Nagar 4-10. Ambika Nagar (all area).",
+            "localname": "Gandhi Nagar Canal Street (I,II,III,). Gandhi Nagar 3rd lane, Gandhi Nagar Part, Gandhi Nagar 1&2. Spectrum Coloney, Gandhi Nagar 4-10. Ambika Nagar (all area).",
+            "label": "Locality",
+            "code": "BVIL22",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "61",
+            "boundaryNum": "1",
+            "name": "Bijipur kalua Street, Laxmi Street, rather Street, Bada Street, Bada Bauri street, Sano Bauri sahi, Bijipur Naidu Street, Boarding Street, Bijipur Bazar, Apana Patra Street, Bijipur Canal Street, Sunari Jbandha Street, Police Colony, Sundar Nagar.",
+            "localname": "Bijipur kalua Street, Laxmi Street, rather Street, Bada Street, Bada Bauri street, Sano Bauri sahi, Bijipur Naidu Street, Boarding Street, Bijipur Bazar, Apana Patra Street, Bijipur Canal Street, Sunari Jbandha Street, Police Colony, Sundar Nagar.",
+            "label": "Locality",
+            "code": "BVIL23",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "62",
+            "boundaryNum": "1",
+            "name": "Burma Colony, Nilakanth Nagar (all area), Dhimira Bauri Street, Tota Street Main Road, Chandi Street, Gopinath Nagar, Sastri Nagar (All-area) Gosaninuagaon Tota Street, Balaji Nagar, Sastri Nagar, Sastri Nagar Billo Street, Gupta Drundabarn Street, K.C. High School Road, mandira Street, Dasagharia Street, Harizan Street, Mandiapadar Street, Charidiba Street, Sanyasi Nagar.",
+            "localname": "Burma Colony, Nilakanth Nagar (all area), Dhimira Bauri Street, Tota Street Main Road, Chandi Street, Gopinath Nagar, Sastri Nagar (All-area) Gosaninuagaon Tota Street, Balaji Nagar, Sastri Nagar, Sastri Nagar Billo Street, Gupta Drundabarn Street, K.C. High School Road, mandira Street, Dasagharia Street, Harizan Street, Mandiapadar Street, Charidiba Street, Sanyasi Nagar.",
+            "label": "Locality",
+            "code": "BVIL24",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "63",
+            "boundaryNum": "1",
+            "name": "Damana Street, Baidya Street, Panigrahi Street, Laxminarayan Street, Kalua Street, Salliabanha Street, Patita Paban Gangar, Kadalibada Street, Badrraj Nagar, Sakti Nagar, Nua Street, Rajudhoba Street, Puruna Bauri Street, Gjosani Nuagaon (Ansa), Gosaninuagaon Main Road, Aduva Sahi, Kaituki Nagar, Lingaraj Nagar.",
+            "localname": "Damana Street, Baidya Street, Panigrahi Street, Laxminarayan Street, Kalua Street, Salliabanha Street, Patita Paban Gangar, Kadalibada Street, Badrraj Nagar, Sakti Nagar, Nua Street, Rajudhoba Street, Puruna Bauri Street, Gjosani Nuagaon (Ansa), Gosaninuagaon Main Road, Aduva Sahi, Kaituki Nagar, Lingaraj Nagar.",
+            "label": "Locality",
+            "code": "BVIL25",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "64",
+            "boundaryNum": "1",
+            "name": "Gosani Nuagaon Main Road East, Harihar Nagar, Utareswar Temple Road, Sana Mudia Street, Railway Colony West Side, Gali Road, Chanchada Padia Street (All), RWS Colony, Trinath Street, Gjoods Shed Road, Khajuria road, Somanath Nagar Nehru Nagar 9&10, Burma colony, Central Wire House Lane.",
+            "localname": "Gosani Nuagaon Main Road East, Harihar Nagar, Utareswar Temple Road, Sana Mudia Street, Railway Colony West Side, Gali Road, Chanchada Padia Street (All), RWS Colony, Trinath Street, Gjoods Shed Road, Khajuria road, Somanath Nagar Nehru Nagar 9&10, Burma colony, Central Wire House Lane.",
+            "label": "Locality",
+            "code": "BVIL26",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "65",
+            "boundaryNum": "1",
+            "name": "Nehru Nagar (1-8), Giri Road (all area), Bijipur Road, PWD Colony, Station Road, Hillpatna (all), Tota Street all area, Santosi Maa Temple Road.",
+            "localname": "Nehru Nagar (1-8), Giri Road (all area), Bijipur Road, PWD Colony, Station Road, Hillpatna (all), Tota Street all area, Santosi Maa Temple Road.",
+            "label": "Locality",
+            "code": "BVIL27",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "66",
+            "boundaryNum": "1",
+            "name": "Ananda sarani, Aurobindo Nagar (all area). Godabarish Nagar (all area), Invadid Peta, swarnamayee Nagar, Hatibandha Street, Rama Krushna Nagar (all area), New Bus Stand Road.",
+            "localname": "Ananda sarani, Aurobindo Nagar (all area). Godabarish Nagar (all area), Invadid Peta, swarnamayee Nagar, Hatibandha Street, Rama Krushna Nagar (all area), New Bus Stand Road.",
+            "label": "Locality",
+            "code": "BVIL28",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "67",
+            "boundaryNum": "1",
+            "name": "Ramahari Nagar, Tatabejnz Square, Old Chistrian Street, Women’s Hostel Road, Zenana Hospital Road, Saragada Bunglow, Sastri Nagar, Giri Road, Ananta Nagar, PWD Coloney, Irrigation Colony, Laxminursingh Street, Gopabandhu nagar, R.C. Das Lane, Medri Street, U.A. Road, Sri Tower.",
+            "localname": "Ramahari Nagar, Tatabejnz Square, Old Chistrian Street, Women’s Hostel Road, Zenana Hospital Road, Saragada Bunglow, Sastri Nagar, Giri Road, Ananta Nagar, PWD Coloney, Irrigation Colony, Laxminursingh Street, Gopabandhu nagar, R.C. Das Lane, Medri Street, U.A. Road, Sri Tower.",
+            "label": "Locality",
+            "code": "BVIL29",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "68",
+            "boundaryNum": "1",
+            "name": "Copprative Colony (all). Ashok Nagar (all). Kamapalli Main Road, Kamapali street, Khalla Street, Gouilundi Road, Kamapli Nayak Street, Kamapali Bandha Street, Kamapalli P.N.T. Colony.",
+            "localname": "Copprative Colony (all). Ashok Nagar (all). Kamapalli Main Road, Kamapali street, Khalla Street, Gouilundi Road, Kamapli Nayak Street, Kamapali Bandha Street, Kamapalli P.N.T. Colony.",
+            "label": "Locality",
+            "code": "BVIL30",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "69",
+            "boundaryNum": "1",
+            "name": "Bidya Nagar, Goilundi Square, temple Street, Sree Nagar, Bhava Nagar, friends Colony, Krushna Nagar, Bagadevi Temple Street, Peon Quarter, Panda Colony Road, Goilundi Chancada Pathar Sahi, Goilundi Gig Street and Main road, Shani Nagar, Ratha Colony, Chandra Sekhar Road Goilundi.",
+            "localname": "Bidya Nagar, Goilundi Square, temple Street, Sree Nagar, Bhava Nagar, friends Colony, Krushna Nagar, Bagadevi Temple Street, Peon Quarter, Panda Colony Road, Goilundi Chancada Pathar Sahi, Goilundi Gig Street and Main road, Shani Nagar, Ratha Colony, Chandra Sekhar Road Goilundi.",
+            "label": "Locality",
+            "code": "BVIL31",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "70",
+            "boundaryNum": "1",
+            "name": "Gajapti Nagar (1-14), Medical Campus, sidhartha Nagar (all Street) EWS Colony, DIG Office, OMP Barrack, P&T Colony, Sales Tax Colony, Jaya Prakash Nagar, LIG Colony, Santi Kunja, State Abank Colony, Jyouti Nagar, Bapuji Nagar.",
+            "localname": "Gajapti Nagar (1-14), Medical Campus, sidhartha Nagar (all Street) EWS Colony, DIG Office, OMP Barrack, P&T Colony, Sales Tax Colony, Jaya Prakash Nagar, LIG Colony, Santi Kunja, State Abank Colony, Jyouti Nagar, Bapuji Nagar.",
+            "label": "Locality",
+            "code": "BVIL32",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "71",
+            "boundaryNum": "1",
+            "name": "Ajodhya Nagar, P.H.D. Colony, Jarada Bunglow, D.I.G. Colony, Forest Colony, Drundavan Nayak Marg, V.I.P Colony, Police line back side Street, Irrigation Colony, IB PED, Komopalli to Goilundi Main Road towards South side, Old Post Office Street, Bidya Nagar, P&T colony, S.E. Railway Colony, Komopalli main Road, South side Ramanagar-1, Rama Nagar-2, Hadi Street, Ganjam Club, Sanadandasi Street, Komopalli Bazar, Rama Nagar Odiya Street north, Dayanidhi Das lane.",
+            "localname": "Ajodhya Nagar, P.H.D. Colony, Jarada Bunglow, D.I.G. Colony, Forest Colony, Drundavan Nayak Marg, V.I.P Colony, Police line back side Street, Irrigation Colony, IB PED, Komopalli to Goilundi Main Road towards South side, Old Post Office Street, Bidya Nagar, P&T colony, S.E. Railway Colony, Komopalli main Road, South side Ramanagar-1, Rama Nagar-2, Hadi Street, Ganjam Club, Sanadandasi Street, Komopalli Bazar, Rama Nagar Odiya Street north, Dayanidhi Das lane.",
+            "label": "Locality",
+            "code": "BVIL33",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "72",
+            "boundaryNum": "1",
+            "name": "Krush Nagar-5th South Side and North Side 4th line, Kurhsana Nagar,Budhia Mohanty Street, Krusshna Nagar-2,3,4 to Kalayana Mandap  Ramnagar & Municipla Colony, Old Post Office Line, Rama Nagar-3rd, Half Ramanagar, Teli Bhandari Street, Deepa Street, Burmha Street, municipal colony, Rama Nagar, Anand Nagar, New Railway Colony, Station Road (L. Palli).",
+            "localname": "Krush Nagar-5th South Side and North Side 4th line, Kurhsana Nagar,Budhia Mohanty Street, Krusshna Nagar-2,3,4 to Kalayana Mandap  Ramnagar & Municipla Colony, Old Post Office Line, Rama Nagar-3rd, Half Ramanagar, Teli Bhandari Street, Deepa Street, Burmha Street, municipal colony, Rama Nagar, Anand Nagar, New Railway Colony, Station Road (L. Palli).",
+            "label": "Locality",
+            "code": "BVIL34",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "73",
+            "boundaryNum": "1",
+            "name": "Central Jail Colony, Bauri Street, Padhi Colony, Sree Krushna Nagar, Kuthari Street, Jail Back Side, Lanjipalli back side to Lanjipalli Bye Pass, to kanjiamma Street and Nua Street, Chankya Nagar, East Adua Street, Radha kanta Temple Street to Golla Redika Street main Road Lanjipalli main Road Street main Road, Lanjipalli Main Road South Street, DEO Colony, Adua Street, Main Road West High School Road.",
+            "localname": "Central Jail Colony, Bauri Street, Padhi Colony, Sree Krushna Nagar, Kuthari Street, Jail Back Side, Lanjipalli back side to Lanjipalli Bye Pass, to kanjiamma Street and Nua Street, Chankya Nagar, East Adua Street, Radha kanta Temple Street to Golla Redika Street main Road Lanjipalli main Road Street main Road, Lanjipalli Main Road South Street, DEO Colony, Adua Street, Main Road West High School Road.",
+            "label": "Locality",
+            "code": "BVIL35",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "74",
+            "boundaryNum": "1",
+            "name": "Jaill Back Side Street, Subash Nagar, Chandi Mondir Street, East Side of Lanjipalli High School, Tota Sahi 1&2, Sashibhusan Nagar, Industrial State, Laxmi Nagar, Lingaraj Nagar, Brundaban Nagar, Industrial Road Square, R.D.C. Colony Choudhury House lane, Surjya Nagar, Labour Colony, MI. REO Colony, Indira Nagar, PHED Colony, Bhairabi Nagar, Jail Quarter, Jail Hospital, Panakalapalli.",
+            "localname": "Jaill Back Side Street, Subash Nagar, Chandi Mondir Street, East Side of Lanjipalli High School, Tota Sahi 1&2, Sashibhusan Nagar, Industrial State, Laxmi Nagar, Lingaraj Nagar, Brundaban Nagar, Industrial Road Square, R.D.C. Colony Choudhury House lane, Surjya Nagar, Labour Colony, MI. REO Colony, Indira Nagar, PHED Colony, Bhairabi Nagar, Jail Quarter, Jail Hospital, Panakalapalli.",
+            "label": "Locality",
+            "code": "BVIL36",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "75",
+            "boundaryNum": "1",
+            "name": "Nigam Nagar, Kasturi Nagar, Nigam Nagar 3to7, Bauri Street, Karji Street, Dandasi Street, Nigam Nagar, Bauri Street, Joleswar Khand, N.H. 5 South Street, Bada Street, Ananda Nagar, Kalinji Street, Nua Street, Laxmi Nurshingh Street, Harishankar Colony, Dhoba Street, Sundhi Street.",
+            "localname": "Nigam Nagar, Kasturi Nagar, Nigam Nagar 3to7, Bauri Street, Karji Street, Dandasi Street, Nigam Nagar, Bauri Street, Joleswar Khand, N.H. 5 South Street, Bada Street, Ananda Nagar, Kalinji Street, Nua Street, Laxmi Nurshingh Street, Harishankar Colony, Dhoba Street, Sundhi Street.",
+            "label": "Locality",
+            "code": "BVIL37",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "76",
+            "boundaryNum": "1",
+            "name": "Panda Colony, De Poul School area. Bidutpuri Colony, Back side Colony, Khodasingi Main Road, Engineering School Colony, ITI Colony, Law College, Engineer School, ITI school, Tota Sahi 1&2 Hanuman Nagar, Khodasiingi Main Road, New Bauri Street, Jayadurga Nagar, Shakti Nagar, Aalekha Nagar, Rajiv Nagar, Kuthari Nagar.",
+            "localname": "Panda Colony, De Poul School area. Bidutpuri Colony, Back side Colony, Khodasingi Main Road, Engineering School Colony, ITI Colony, Law College, Engineer School, ITI school, Tota Sahi 1&2 Hanuman Nagar, Khodasiingi Main Road, New Bauri Street, Jayadurga Nagar, Shakti Nagar, Aalekha Nagar, Rajiv Nagar, Kuthari Nagar.",
+            "label": "Locality",
+            "code": "BVIL38",
+            "pincode": [ 760001 ]
+          },
+          {
+            "id": "77",
+            "boundaryNum": "1",
+            "name": "Gopalpur Jn, Housing Board, Byue Pass, Basudev Nagar, Jagannath Bihar,  Ex-Military Colony, Pokudibandha Chhak Road, Madhav Nagar, Bhima  Nagar-1.2.3. & 4. Saradhabali and Roland Firma Area, Ambapua Gaon, Nua Sahi, Sibananda Nagar,Adua Sahi, Khadasinghi, Puruna Bauri Street, Bada Street, Dhoba Street, Banchanidhi Nagar, Kalinga Bihar.",
+            "localname": "Gopalpur Jn, Housing Board, Byue Pass, Basudev Nagar, Jagannath Bihar,  Ex-Military Colony, Pokudibandha Chhak Road, Madhav Nagar, Bhima  Nagar-1.2.3. & 4. Saradhabali and Roland Firma Area, Ambapua Gaon, Nua Sahi, Sibananda Nagar,Adua Sahi, Khadasinghi, Puruna Bauri Street, Bada Street, Dhoba Street, Banchanidhi Nagar, Kalinga Bihar.",
+            "label": "Locality",
+            "code": "BVIL39",
+            "pincode": [ 760001 ]
           }
         ]
       }

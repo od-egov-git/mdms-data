@@ -11,7 +11,7 @@
             "PlusCode": "7PJQ+Q8 Kusumi, Odisha",
             "PlantOperationalTimings": "09.00am-06.00pm",
             "PlantOperationalCapacityKLD": "40",
-            "ULBS": "od.gopalpur,od.berhampur,od.chatrapur"
+            "ULBS": "od.gopalpur,od.Balesore,od.chatrapur"
         },
         {
             "PlantCode": "DHKL_001",
@@ -26,14 +26,14 @@
         },
         {
             "PlantCode": "BLSR-003",
-            "PlantName": "Balasore Septage Treatment Plant",
+            "PlantName": "Balesore Septage Treatment Plant",
             "active": true,
             "PlantType": "SeTP",
-            "PlantLocation": "Balasore",
+            "PlantLocation": "Balesore",
             "PlusCode": "GVJX+8J ",
             "PlantOperationalTimings": "10.00am-06.00pm",
             "PlantOperationalCapacityKLD": "60",
-            "ULBS": "od.balasore"
+            "ULBS": "od.balesore"
         }
     ]
 }
