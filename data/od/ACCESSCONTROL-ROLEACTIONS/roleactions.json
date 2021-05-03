@@ -17848,6 +17848,54 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 2056,
       "actioncode": "",
