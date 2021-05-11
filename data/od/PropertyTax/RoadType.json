@@ -1,0 +1,27 @@
+{
+    "tenantId": "od",
+    "moduleName": "PropertyTax",
+    "RoadType": [
+      {
+        "name": "Kaccha Road",
+        "code": "RD1",
+        "active": true
+      },
+      {
+        "name": "Paved Road",
+        "code": "RD2",
+        "active": true
+      },
+      {
+        "name": "Metalled Road",
+        "code": "RD3",
+        "active": true
+      },
+      {
+        "name": "Cement Concrete",
+        "code": "RD4",
+        "active": true
+      }
+    ]
+  }
+  

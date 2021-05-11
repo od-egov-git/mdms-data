@@ -6,9 +6,9 @@
       "name": "Freedom Fighter",
       "code": "FREEDOMFIGHTER",
       "active": true,
-      "fromFY": "2015-16",
+      "fromFY": "2020-21",
       "exemption": {
-        "rate": 100,
+        "rate": null,
         "maxAmount": null,
         "flatAmount": null
       }
@@ -17,51 +17,62 @@
       "name": "Widow",
       "code": "WIDOW",
       "active": true,
-      "fromFY": "2015-16",
+      "fromFY": "2020-21",
       "exemption": {
         "rate": null,
         "maxAmount": null,
-        "flatAmount": 5000.0
+        "flatAmount": null
       }
     },
     {
       "name": "Handicapped Person",
       "code": "HANDICAPPED",
       "active": true,
-      "fromFY": "2015-16",
+      "fromFY": "2020-21",
       "exemption": {
         "rate": null,
         "maxAmount": null,
-        "flatAmount": 5000.0
+        "flatAmount": null
       }
     },
     {
       "name": "Below Poverty Line",
       "code": "BPL",
       "active": true,
-      "fromFY": "2015-16",
+      "fromFY": "2020-21",
       "exemption": {
-        "rate": 100.0,
+        "rate": null,
         "maxAmount": null,
         "flatAmount": null
       }
     },
     {
-      "name": "Defense Personnel",
-      "code": "DEFENSE",
+      "name": "Defence Personnel",
+      "code": "DEFENCE",
       "active": true,
-      "fromFY": "2015-16",
+      "fromFY": "2020-21",
       "exemption": {
-        "rate": 100.0,
+        "rate": null,
         "maxAmount": null,
         "flatAmount": null
       }
     },
     {
-      "name": "None of the above",
-      "code": "NONE",
+      "name": "Sports Person ( International/ National )",
+      "code": "SPORTSPERSON",
       "active": true,
-      "fromFY": "2015-16"
+      "fromFY": "2020-21",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Not Applicable",
+      "code": "NOTAPPLICABLE",
+      "active": true,
+      "fromFY": "2020-21"
     }
   ]
 }

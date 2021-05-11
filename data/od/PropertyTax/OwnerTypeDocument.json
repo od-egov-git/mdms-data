@@ -15,6 +15,12 @@
       "active": true
     },
     {
+      "name": "Spouse Proof",
+      "code": "SPOUSEPROOF",
+      "ownerTypeCode": "WIDOW",
+      "active": true
+    },
+    {
       "name": "Certificate of Handicap by the competent authority",
       "code": "HANDICAPCERTIFICATE",
       "ownerTypeCode": "HANDICAPPED",
@@ -28,9 +34,15 @@
       
     },
     {
-      "name": "Defence ID proof",
+      "name": "ID card issued by Defence authority",
       "code": "DEFENCEID",
-      "ownerTypeCode": "DEFENSE",
+      "ownerTypeCode": "DEFENCE",
+      "active": true
+    },
+    {
+      "name": "Certificate from competent authority for National/Inernational level Sports Person.",
+      "code": "SPORTSCERTIFICATE",
+      "ownerTypeCode": "SPORTSPERSON",
       "active": true
     }
   ]
