@@ -23,21 +23,6 @@
       "code": "BUILTUP.INDEPENDENTPROPERTY",
       "active": true,
       "propertyType": "BUILTUP"
-    },
-    {
-      "name": "Flat/ Part of Building",
-      "code": "SHAREDPROPERTY",
-      "active": true
-    },
-    {
-      "name": "Independent Building",
-      "code": "INDEPENDENTPROPERTY",
-      "active": true
-    },
-    {
-      "name": "Vacant Land",
-      "code": "VACANTLAND",
-      "active": true
     }
   ]
 }
