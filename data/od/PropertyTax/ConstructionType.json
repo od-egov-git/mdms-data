@@ -20,6 +20,12 @@
       "name": "Kuccha",
       "code": "KUCCHA",
       "active": true
+    },
+    {
+      "id": "4",
+      "name": "Thathed",
+      "code": "THATHED",
+      "active": true
     }
   ]
 }

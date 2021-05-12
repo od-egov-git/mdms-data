@@ -53,7 +53,16 @@
       "name": "State Government",
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
       "active": true
+    },
+    {
+      "name": "Institutional - Private",
+      "code": "PRIVATE",
+      "active": true
+    },
+    {
+      "name": "Institutional- Government",
+      "code": "GOVERNMENT",
+      "active": true
     }
-  
   ]
 }

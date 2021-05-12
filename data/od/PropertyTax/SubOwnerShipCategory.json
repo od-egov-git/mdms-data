@@ -25,7 +25,7 @@
       "name": "NGO",
       "code": "NGO",
       "active": true,
-      "ownerShipCategory": "INSTITUTIONALPRIVATE"
+      "ownerShipCategory": "PRIVATE"
     },
     {
       "name": "Private Trust",
@@ -68,6 +68,67 @@
       "code": "OTHERGOVERNMENTINSTITUITION",
       "active": true,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
+    },
+    
+    {
+      "name": "Single Owner",
+      "code": "SO",
+      "active": true,
+      "ownerShipCategory": "INDIVIDUAL"
+    },
+    {
+      "name": "Multiple Owner",
+      "code": "MO",
+      "active": true,
+      "ownerShipCategory": "INDIVIDUAL"
+    },
+    {
+      "name": "Private Board",
+      "code": "PVTBOARD",
+      "active": true,
+      "ownerShipCategory": "PRIVATE"
+    },
+    {
+      "name": "Private Company",
+      "code": "PVTCOM",
+      "active": true,
+      "ownerShipCategory": "PRIVATE"
+    },
+    {
+      "name": "Private Trust/Society",
+      "code": "TRUST",
+      "active": true,
+      "ownerShipCategory": "PRIVATE"
+    },
+    {
+      "name": "Other-Private Intitution",
+      "code": "OTHPVT",
+      "active": true,
+      "ownerShipCategory": "PRIVATE"
+    },
+    {
+      "name": "State Government",
+      "code": "SGU",
+      "active": true,
+      "ownerShipCategory": "GOVERNMENT"
+    },
+    {
+      "name": "Central Government",
+      "code": "CGU",
+      "active": true,
+      "ownerShipCategory": "GOVERNMENT"
+    },
+    {
+      "name": "Urban Local Government",
+      "code": "ULG",
+      "active": true,
+      "ownerShipCategory": "GOVERNMENT"
+    },
+    {
+      "name": "Other Government Institution",
+      "code": "RLG",
+      "active": true,
+      "ownerShipCategory": "GOVERNMENT"
     }
   ]
 }
