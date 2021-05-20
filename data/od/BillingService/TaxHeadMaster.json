@@ -1093,6 +1093,105 @@
       "isActualDemand": true,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt holding tax",
+      "code": "PT_HOLDING_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt light tax",
+      "code": "PT_LIGHT_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt water tax",
+      "code": "PT_WATER_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt drainage tax",
+      "code": "PT_DRAINAGE_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt latrine tax",
+      "code": "PT_LATRINE_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt parking tax",
+      "code": "PT_PARKING_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt solid waste user changes",
+      "code": "PT_SOLID_WASTE_USER_CHARGES",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt ownership excemption",
+      "code": "PT_OWNERSHIP_EXCEMPTION",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt usage excemption",
+      "code": "PT_USAGE_EXCEMPTION",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt interest",
+      "code": "PT_INTEREST",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt penalty",
+      "code": "PT_PENALTY",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
     }
   ]
 }
