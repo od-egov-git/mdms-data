@@ -17572,6 +17572,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "PT_APPROVER",
       "actionid": 1944,
       "actioncode": "",
@@ -17591,6 +17597,12 @@
     },
     {
       "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
       "actionid": 1945,
       "actioncode": "",
       "tenantId": "od"
