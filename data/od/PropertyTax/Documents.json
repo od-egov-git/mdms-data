@@ -43,19 +43,19 @@
         },
         {
           "code": "OWNER.ADDRESSPROOF.AADHAAR",
-          "active": false
+          "active": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.VOTERID",
-          "active": false
+          "active": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.DRIVING",
-          "active": false
+          "active": true
         },
         {
           "code": "OWNER.ADDRESSPROOF.PASSPORT",
-          "active": false
+          "active": true
         }
       ],
       "description": "OWNER.ADDRESSPROOF.ADDRESSPROOF_DESCRIPTION"
@@ -105,7 +105,7 @@
         },
         {
           "code": "OWNER.IDENTITYPROOF.PASSPORT",
-          "active": false
+          "active": true
         }
       ],
       "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
