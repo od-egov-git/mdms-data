@@ -63,6 +63,62 @@
       "name": "Institutional- Government",
       "code": "GOVERNMENT",
       "active": true
+    },
+    {
+      "name": "NGO",
+      "code": "PRIVATE.NGO",
+      "active": true
+    },
+    
+    {
+      "name": "Single Owner",
+      "code": "INDIVIDUAL.SO",
+      "active": true
+    },
+    {
+      "name": "Multiple Owner",
+      "code": "INDIVIDUAL.MO",
+      "active": true
+    },
+    {
+      "name": "Private Board",
+      "code": "PRIVATE.PVTBOARD",
+      "active": true
+    },
+    {
+      "name": "Private Company",
+      "code": "PRIVATE.PVTCOM",
+      "active": true
+    },
+    {
+      "name": "Private Trust/Society",
+      "code": "PRIVATE.TRUST",
+      "active": true
+    },
+    {
+      "name": "Other-Private Intitution",
+      "code": "PRIVATE.OTHPVT",
+      "active": true
+    },
+    {
+      "name": "State Government",
+      "code": "GOVERNMENT.SGU",
+      "active": true
+    },
+    {
+      "name": "Central Government",
+      "code": "GOVERNMENT.CGU",
+      "active": true
+    },
+    {
+      "name": "Urban Local Government",
+      "code": "GOVERNMENT.ULG",
+      "active": true
+    },
+    {
+      "name": "Other Government Institution",
+      "code": "GOVERNMENT.RLG",
+      "active": true
     }
   ]
 }
