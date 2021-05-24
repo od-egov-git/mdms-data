@@ -5,7 +5,7 @@
     {
       "name": "Commercial",
       "code": "COMMERCIAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
@@ -17,7 +17,7 @@
     {
       "name": "Industrial",
       "code": "INDUSTRIAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
@@ -29,7 +29,7 @@
     {
       "name": "Institutional",
       "code": "INSTITUTIONAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
@@ -41,7 +41,7 @@
     {
       "name": "Other Non-Residential",
       "code": "OTHERS",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {

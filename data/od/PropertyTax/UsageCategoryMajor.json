@@ -11,7 +11,7 @@
     {
       "name": "NonResidential",
       "code": "NONRESIDENTIAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16"
     },
     {
