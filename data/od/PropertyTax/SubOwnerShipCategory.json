@@ -6,19 +6,19 @@
     {
       "name": "Single Owner",
       "code": "SINGLEOWNER",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Multiple Owners",
       "code": "MULTIPLEOWNERS",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Private Company",
       "code": "PRIVATECOMPANY",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
@@ -30,43 +30,43 @@
     {
       "name": "Private Trust",
       "code": "PRIVATETRUST",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Board",
       "code": "PRIVATEBOARD",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "ULB Government",
       "code": "ULBGOVERNMENT",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "State Government",
       "code": "STATEGOVERNMENT",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Central Government",
       "code": "CENTRALGOVERNMENT",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Others - Private Instituition",
       "code": "OTHERSPRIVATEINSTITUITION",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Others - Government Instituition",
       "code": "OTHERGOVERNMENTINSTITUITION",
-      "active": true,
+      "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     

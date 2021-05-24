@@ -11,48 +11,48 @@
     {
       "name": "Institutional - Private ",
       "code": "INSTITUTIONALPRIVATE",
-      "active": true
+      "active": false
     },
     {
       "name": "Institutional - Government",
       "code": "INSTITUTIONALGOVERNMENT",
-      "active": true
+      "active": false
     },
     {
       "name": "Individual - SingleOwner",
       "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true
+      "active": false
     },
     {
       "name": "Multiple Owners",
       "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
+      "active": false
     },
     {
       "name": "Private Company",
       "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
-      "active": true
+      "active": false
     },
     {
       "name": "NGO",
       "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true
+      "active": false
     },
     {
       "name": "Private Trust",
       "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
-      "active": true
+      "active": false
     },
    
     {
       "name": "ULB Government",
       "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
-      "active": true
+      "active": false
     },
     {
       "name": "State Government",
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
-      "active": true
+      "active": false
     },
     {
       "name": "Institutional - Private",
