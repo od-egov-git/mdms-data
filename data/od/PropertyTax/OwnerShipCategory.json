@@ -56,68 +56,68 @@
     },
     {
       "name": "Institutional - Private",
-      "code": "PRIVATE",
+      "code": "INSTITUTIONALPRIVATE",
       "active": true
     },
     {
       "name": "Institutional- Government",
-      "code": "GOVERNMENT",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true
     },
     {
       "name": "NGO",
-      "code": "PRIVATE.NGO",
+      "code": "INSTITUTIONALPRIVATE.NGO",
       "active": true
     },
     
     {
       "name": "Single Owner",
-      "code": "INDIVIDUAL.SO",
+      "code": "INDIVIDUAL.SINGLEOWNER",
       "active": true
     },
     {
       "name": "Multiple Owner",
-      "code": "INDIVIDUAL.MO",
+      "code": "INDIVIDUAL.MULTIPLEOWNERS",
       "active": true
     },
     {
       "name": "Private Board",
-      "code": "PRIVATE.PVTBOARD",
+      "code": "INSTITUTIONALPRIVATE.PVTBOARD",
       "active": true
     },
     {
       "name": "Private Company",
-      "code": "PRIVATE.PVTCOM",
+      "code": "INSTITUTIONALPRIVATE.PVTCOM",
       "active": true
     },
     {
       "name": "Private Trust/Society",
-      "code": "PRIVATE.TRUST",
+      "code": "INSTITUTIONALPRIVATE.TRUST",
       "active": true
     },
     {
       "name": "Other-Private Intitution",
-      "code": "PRIVATE.OTHPVT",
+      "code": "INSTITUTIONALPRIVATE.OTHPVT",
       "active": true
     },
     {
       "name": "State Government",
-      "code": "GOVERNMENT.SGU",
+      "code": "INSTITUTIONALGOVERNMENT.SGU",
       "active": true
     },
     {
       "name": "Central Government",
-      "code": "GOVERNMENT.CGU",
+      "code": "INSTITUTIONALGOVERNMENT.CGU",
       "active": true
     },
     {
       "name": "Urban Local Government",
-      "code": "GOVERNMENT.ULG",
+      "code": "INSTITUTIONALGOVERNMENT.ULG",
       "active": true
     },
     {
       "name": "Other Government Institution",
-      "code": "GOVERNMENT.RLG",
+      "code": "INSTITUTIONALGOVERNMENT.RLG",
       "active": true
     }
   ]

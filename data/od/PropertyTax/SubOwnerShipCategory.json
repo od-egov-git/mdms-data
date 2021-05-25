@@ -25,7 +25,7 @@
       "name": "NGO",
       "code": "NGO",
       "active": true,
-      "ownerShipCategory": "PRIVATE"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Trust",
@@ -72,13 +72,13 @@
     
     {
       "name": "Single Owner",
-      "code": "SO",
+      "code": "SINGLEOWNER",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Multiple Owner",
-      "code": "MO",
+      "code": "MULTIPLEOWNERS",
       "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
@@ -86,49 +86,49 @@
       "name": "Private Board",
       "code": "PVTBOARD",
       "active": true,
-      "ownerShipCategory": "PRIVATE"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Company",
       "code": "PVTCOM",
       "active": true,
-      "ownerShipCategory": "PRIVATE"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Private Trust/Society",
       "code": "TRUST",
       "active": true,
-      "ownerShipCategory": "PRIVATE"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "Other-Private Intitution",
       "code": "OTHPVT",
       "active": true,
-      "ownerShipCategory": "PRIVATE"
+      "ownerShipCategory": "INSTITUTIONALPRIVATE"
     },
     {
       "name": "State Government",
       "code": "SGU",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Central Government",
       "code": "CGU",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Urban Local Government",
       "code": "ULG",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     },
     {
       "name": "Other Government Institution",
       "code": "RLG",
       "active": true,
-      "ownerShipCategory": "GOVERNMENT"
+      "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
     }
   ]
 }
