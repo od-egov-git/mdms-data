@@ -3,6 +3,14 @@
   "moduleName": "ws-services-calculation",
   "Penalty": [
     {
+      "rate": 5,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "16"
+    },
+    {
       "rate": 10,
       "minAmount": null,
       "applicableAfterDays": 0,

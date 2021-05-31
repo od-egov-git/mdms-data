@@ -3,6 +3,13 @@
   "moduleName": "sw-services-calculation",
   "Rebate": [
     {
+      "rate": 2,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "endingDay": "15"
+    },
+    {
       "rate": 10,
       "maxAmount": null,
       "flatAmount": null,
