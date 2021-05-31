@@ -636,6 +636,16 @@
          "code":"ESCALATION_OFFICER2",
          "name":"Escalation Officer2",
          "description":"Role For 2nd level escalation(PGR)"
+    },
+    {
+         "code":"ESCALATION_OFFICER3",
+         "name":"Escalation Officer3",
+         "description":"Role For 3rd level escalation(PGR)"
+    },
+    {
+         "code":"ESCALATION_OFFICER4",
+         "name":"Escalation Officer4",
+         "description":"Role For 4th level escalation(PGR)"
     }
   ]
 }

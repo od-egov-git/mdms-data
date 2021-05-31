@@ -11,26 +11,57 @@
     {
       "name": "Institutional - Private ",
       "code": "INSTITUTIONALPRIVATE",
-      "active": true
+      "active": false
     },
     {
       "name": "Institutional - Government",
       "code": "INSTITUTIONALGOVERNMENT",
-      "active": true
+      "active": false
     },
     {
       "name": "Individual - SingleOwner",
       "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true
+      "active": false
     },
     {
       "name": "Multiple Owners",
       "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
+      "active": false
     },
     {
       "name": "Private Company",
       "code": "INSTITUTIONALPRIVATE.PRIVATECOMPANY",
+      "active": false
+    },
+    {
+      "name": "NGO",
+      "code": "INSTITUTIONALPRIVATE.NGO",
+      "active": false
+    },
+    {
+      "name": "Private Trust",
+      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
+      "active": false
+    },
+   
+    {
+      "name": "ULB Government",
+      "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
+      "active": false
+    },
+    {
+      "name": "State Government",
+      "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+      "active": false
+    },
+    {
+      "name": "Institutional - Private",
+      "code": "INSTITUTIONALPRIVATE",
+      "active": true
+    },
+    {
+      "name": "Institutional- Government",
+      "code": "INSTITUTIONALGOVERNMENT",
       "active": true
     },
     {
@@ -38,22 +69,56 @@
       "code": "INSTITUTIONALPRIVATE.NGO",
       "active": true
     },
+    
     {
-      "name": "Private Trust",
-      "code": "INSTITUTIONALPRIVATE.PRIVATETRUST",
+      "name": "Single Owner",
+      "code": "INDIVIDUAL.SINGLEOWNER",
       "active": true
     },
-   
     {
-      "name": "ULB Government",
-      "code": "INSTITUTIONALGOVERNMENT.ULBGOVERNMENT",
+      "name": "Multiple Owner",
+      "code": "INDIVIDUAL.MULTIPLEOWNERS",
+      "active": true
+    },
+    {
+      "name": "Private Board",
+      "code": "INSTITUTIONALPRIVATE.PVTBOARD",
+      "active": true
+    },
+    {
+      "name": "Private Company",
+      "code": "INSTITUTIONALPRIVATE.PVTCOM",
+      "active": true
+    },
+    {
+      "name": "Private Trust/Society",
+      "code": "INSTITUTIONALPRIVATE.TRUST",
+      "active": true
+    },
+    {
+      "name": "Other-Private Intitution",
+      "code": "INSTITUTIONALPRIVATE.OTHPVT",
       "active": true
     },
     {
       "name": "State Government",
-      "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
+      "code": "INSTITUTIONALGOVERNMENT.SGU",
+      "active": true
+    },
+    {
+      "name": "Central Government",
+      "code": "INSTITUTIONALGOVERNMENT.CGU",
+      "active": true
+    },
+    {
+      "name": "Urban Local Government",
+      "code": "INSTITUTIONALGOVERNMENT.ULG",
+      "active": true
+    },
+    {
+      "name": "Other Government Institution",
+      "code": "INSTITUTIONALGOVERNMENT.RLG",
       "active": true
     }
-  
   ]
 }

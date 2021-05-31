@@ -5,7 +5,7 @@
     {
       "name": "Commercial",
       "code": "COMMERCIAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
@@ -17,7 +17,7 @@
     {
       "name": "Industrial",
       "code": "INDUSTRIAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
@@ -29,7 +29,7 @@
     {
       "name": "Institutional",
       "code": "INSTITUTIONAL",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
@@ -41,13 +41,902 @@
     {
       "name": "Other Non-Residential",
       "code": "OTHERS",
-      "active": true,
+      "active": false,
       "fromFY": "2015-16",
       "usageCategoryMajor": "NONRESIDENTIAL",
       "exemption": {
         "rate": 100,
         "maxAmount": 0,
         "flatAmount": 0
+      }
+    },
+
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "RESIDENTIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "AC-Resturant",
+      "code": "ACRESTURANT",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Establishment in Multiplex",
+      "code": "ESTMULTIPLEX",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Establishment (In Mall)",
+      "code": "ESTMALL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Grocery Store",
+      "code": "GROCERY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Hotels",
+      "code": "HOTELS",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Malls",
+      "code": "MALL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Banquet Hall",
+      "code": "MARRIAGEPLACE",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Art Theater",
+      "code": "THEATER",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Multiplex",
+      "code": "MULTIPLEX",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Non-AC Resturants",
+      "code": "NONACRESTURANT",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Office Space",
+      "code": "OFFICE",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Pharmacy",
+      "code": "PHARMACY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Retail Shop/Showrooms",
+      "code": "SHOWROOM",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Other Commercial Establishment",
+      "code": "OTHERCOMMERTIAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Cinema hall",
+      "code": "CINEMAHALL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Car parking (Single/Multi Level)",
+      "code": "PVTPARKING",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Lodge",
+      "code": "LODGE",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Godown",
+      "code": "GODOWN",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Bank",
+      "code": "BANK",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "IT/ITeS Services",
+      "code": "ITSERVICES",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "SEZ",
+      "code": "SEZ",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Research Intitutions",
+      "code": "RESEARCHINTITUTIONS",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Labratories",
+      "code": "LABRATORIES",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Service Shop",
+      "code": "SERVICESHOP",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Repair Shop",
+      "code": "REPAIRSHOP",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Kalyan mandap - Private",
+      "code": "PVTKALYANMANDAP",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Private Dispensary",
+      "code": "PVTDISPENSORY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Charitable Trust",
+      "code": "CHARITABLETRUST",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Colleges",
+      "code": "COLLEGE",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Community Hall",
+      "code": "COMMUNITYHALL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Golf Club",
+      "code": "GOLFCLUB",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Govt. Aided Eductaional Institution",
+      "code": "GOVTAIDEDINSTITUATION",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Government Hospital & Dispensary",
+      "code": "GOVTHOSPITAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Historical Building",
+      "code": "HISTORICALBUILDING",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Home for Disabled/ Destitute",
+      "code": "SHELTERHOMES",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Old Age Homes",
+      "code": "OLDAGEHOMES",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Orphanage",
+      "code": "ORPHANAGE",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Other Private Educational Institution",
+      "code": "OTHERPRIVATEINSTITUATION",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Others Institutainal Establishment",
+      "code": "OTHERINSTITIONAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Polytechnic",
+      "code": "POLYTECNIC",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Private Library",
+      "code": "PRIVATELIBRARY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Public Library",
+      "code": "PUBLICLIBRARY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Religeous Institution",
+      "code": "RELIGEOUSINSTITUTION",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "School",
+      "code": "SCHOOL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Social Club",
+      "code": "SOCIALCLUB",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Sports Clubs",
+      "code": "SPORTSCLUB",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Sports Stadium",
+      "code": "SPORTSSTADIUM",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Stray Animal Care Center",
+      "code": "STRAYANIMALINSTITUATION",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Training Institutions",
+      "code": "TRAININGINSTITUTIONS",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Private Hospital / Nursing Home",
+      "code": "PVTHOSPITAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Art Gallery",
+      "code": "ARTGALLERY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Museum",
+      "code": "MUSEUM",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Dharmshala",
+      "code": "DHARMSHALA",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Hostel",
+      "code": "HOSTEL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Mess / Canteen",
+      "code": "CANTEENS",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Auditorium",
+      "code": "AUDITORIUM",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Convention Hall / Exibition Hall",
+      "code": "CONVENTIONHALL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Research Intitutions",
+      "code": "RESEARCHINTITUTIONS",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Laboratory",
+      "code": "LABORATORY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INSTITUTIONAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Warehouse",
+      "code": "WAREHOUSE",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INDUSTRIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Manufacturing Facility",
+      "code": "MANUFACTURINGFACILITY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INDUSTRIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Other Industrial Usage",
+      "code": "OTHERINDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "INDUSTRIAL",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Kalyan mandap / Community Hall - Government",
+      "code": "GOVTKALYANMANDAP",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Statutory Organisation",
+      "code": "STAORG",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Bus Stand",
+      "code": "BUSSTAND",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Airport",
+      "code": "AIRPORT",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Railway Station",
+      "code": "RAILWAYSTATION",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Water Port",
+      "code": "WATERPORT",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Taxi/Auto Stand",
+      "code": "PVTAUTO",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Police/Defence Establishment",
+      "code": "DEFENCEEST",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Other Government Facilities",
+      "code": "OTHERS",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "GOVFACILITIES",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Cremation/Burial Ground",
+      "code": "CREMATION",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "OTHERS",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
+      }
+    },
+    {
+      "name": "Other Establishments",
+      "code": "OTHEREST",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "OTHERS",
+      "exemption": {
+        "rate": null,
+        "maxAmount": null,
+        "flatAmount": null
       }
     }
   ]

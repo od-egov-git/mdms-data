@@ -11,12 +11,43 @@
     {
       "name": "NonResidential",
       "code": "NONRESIDENTIAL",
+      "active": false,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Mixed Holdings",
+      "code": "MIXED",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
       "active": true,
       "fromFY": "2015-16"
     },
     {
-      "name": "Mixed",
-      "code": "MIXED",
+      "name": "Industrial",
+      "code": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Institutional",
+      "code": "INSTITUTIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Government facilities",
+      "code": "GOVFACILITIES",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
       "active": true,
       "fromFY": "2015-16"
     }

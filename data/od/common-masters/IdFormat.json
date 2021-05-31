@@ -491,12 +491,16 @@
             "idname": "egov.idgen.bpa.suplicensenumber"
         },
         {
-            "format": "BR/ARCT/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "egov.idgen.bpa.arlicensenumber"
+            "format": "BR/TP/[cy:yyyy]/[SEQ_EG_BPR_LN]",
+            "idname": "egov.idgen.bpr.licensenumber"
         },
         {
             "format": "BR/BLD/[cy:yyyy]/[SEQ_EG_PT_LN]",
             "idname": "egov.idgen.bpa.bdlicensenumber"
+        },   
+        {
+            "format": "OD-BR-[cy:yyyy-MM-dd]-[SEQ_EG_BPR_APN]",
+            "idname": "egov.idgen.bpr.aplnumber"
         },
         {
             "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",

@@ -14193,6 +14193,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "CEMP",
+      "actionid": 1946,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "BPA_CIVILENGINEER",
       "actionid": 1946,
       "actioncode": "",
@@ -17536,6 +17542,18 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "WS_CEMP",
       "actionid": 1944,
       "actioncode": "",
@@ -17543,6 +17561,24 @@
     },
     {
       "rolecode": "SW_CEMP",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
       "actionid": 1944,
       "actioncode": "",
       "tenantId": "od"
@@ -17555,6 +17591,24 @@
     },
     {
       "rolecode": "SW_CEMP",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 1945,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
       "actionid": 1945,
       "actioncode": "",
       "tenantId": "od"
@@ -17838,6 +17892,54 @@
     {
       "rolecode": "SW_APPROVER",
       "actionid": 2055,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_DOC_VERIFIER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_FIELD_INSPECTOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_APPROVER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "SW_CLERK",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_DOC_VERIFIER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_FIELD_INSPECTOR",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_APPROVER",
+      "actionid": 1897,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CLERK",
+      "actionid": 1897,
       "actioncode": "",
       "tenantId": "od"
     },

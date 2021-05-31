@@ -329,6 +329,499 @@
       "code": "NONRESIDENTIAL.INSTITUTIONAL.EDUCATIONAL.POLYTECHNICS",
       "active": true,
       "fromFY": "2015-16"
+    },
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Mixed Holdings",
+      "code": "MIXED",
+      "active": true,
+      "fromFY": "2015-16"
+    }, 
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Industrial",
+      "code": "INDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Institutional",
+      "code": "INSTITUTIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Government facilities",
+      "code": "GOVFACILITIES",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL.RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL.RESIDENTIAL.RESIDENTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "AC-Resturant",
+      "code": "COMMERCIAL.ACRESTURANT",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Establishment in Multiplex",
+      "code": "COMMERCIAL.ESTMULTIPLEX",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Establishment (In Mall)",
+      "code": "COMMERCIAL.ESTMALL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Grocery Store",
+      "code": "COMMERCIAL.GROCERY",
+      "active": true,
+      "fromFY": "2015-16",
+      "usageCategoryMajor": "COMMERCIAL"
+    },
+    {
+      "name": "Hotels",
+      "code": "COMMERCIAL.HOTELS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Malls",
+      "code": "COMMERCIAL.MALL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Banquet Hall",
+      "code": "COMMERCIAL.MARRIAGEPLACE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Art Theater",
+      "code": "COMMERCIAL.THEATER",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Multiplex",
+      "code": "COMMERCIAL.MULTIPLEX",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Non-AC Resturants",
+      "code": "COMMERCIAL.NONACRESTURANT",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Office Space",
+      "code": "COMMERCIAL.OFFICE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Pharmacy",
+      "code": "COMMERCIAL.PHARMACY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Retail Shop/Showrooms",
+      "code": "COMMERCIAL.SHOWROOM",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Commercial Establishment",
+      "code": "COMMERCIAL.OTHERCOMMERTIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Cinema hall",
+      "code": "COMMERCIAL.CINEMAHALL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Car parking (Single/Multi Level)",
+      "code": "COMMERCIAL.PVTPARKING",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Lodge",
+      "code": "COMMERCIAL.LODGE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Godown",
+      "code": "COMMERCIAL.GODOWN",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Bank",
+      "code": "COMMERCIAL.BANK",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "IT/ITeS Services",
+      "code": "COMMERCIAL.ITSERVICES",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "SEZ",
+      "code": "COMMERCIAL.SEZ",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Research Intitutions",
+      "code": "COMMERCIAL.RESEARCHINTITUTIONS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Labratories",
+      "code": "COMMERCIAL.LABRATORIES",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Service Shop",
+      "code": "COMMERCIAL.SERVICESHOP",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Repair Shop",
+      "code": "COMMERCIAL.REPAIRSHOP",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Kalyan mandap - Private",
+      "code": "COMMERCIAL.PVTKALYANMANDAP",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Private Dispensary",
+      "code": "INSTITUTIONAL.PVTDISPENSORY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Charitable Trust",
+      "code": "INSTITUTIONAL.CHARITABLETRUST",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Colleges",
+      "code": "INSTITUTIONAL.COLLEGE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Community Hall",
+      "code": "INSTITUTIONAL.COMMUNITYHALL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Golf Club",
+      "code": "INSTITUTIONAL.GOLFCLUB",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Govt. Aided Eductaional Institution",
+      "code": "INSTITUTIONAL.GOVTAIDEDINSTITUATION",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Government Hospital & Dispensary",
+      "code": "INSTITUTIONAL.GOVTHOSPITAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Historical Building",
+      "code": "INSTITUTIONAL.HISTORICALBUILDING",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Home for Disabled/ Destitute",
+      "code": "INSTITUTIONAL.SHELTERHOMES",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Old Age Homes",
+      "code": "INSTITUTIONAL.OLDAGEHOMES",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Orphanage",
+      "code": "INSTITUTIONAL.ORPHANAGE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Private Educational Institution",
+      "code": "INSTITUTIONAL.OTHERPRIVATEINSTITUATION",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Others Institutainal Establishment",
+      "code": "INSTITUTIONAL.OTHERINSTITIONAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Polytechnic",
+      "code": "INSTITUTIONAL.POLYTECNIC",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Private Library",
+      "code": "INSTITUTIONAL.PRIVATELIBRARY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Public Library",
+      "code": "INSTITUTIONAL.PUBLICLIBRARY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Religeous Institution",
+      "code": "INSTITUTIONAL.RELIGEOUSINSTITUTION",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "School",
+      "code": "INSTITUTIONAL.SCHOOL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Social Club",
+      "code": "INSTITUTIONAL.SOCIALCLUB",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Sports Clubs",
+      "code": "INSTITUTIONAL.SPORTSCLUB",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Sports Stadium",
+      "code": "INSTITUTIONAL.SPORTSSTADIUM",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Stray Animal Care Center",
+      "code": "INSTITUTIONAL.STRAYANIMALINSTITUATION",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Training Institutions",
+      "code": "INSTITUTIONAL.TRAININGINSTITUTIONS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Private Hospital / Nursing Home",
+      "code": "INSTITUTIONAL.PVTHOSPITAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Art Gallery",
+      "code": "INSTITUTIONAL.ARTGALLERY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Museum",
+      "code": "INSTITUTIONAL.MUSEUM",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Dharmshala",
+      "code": "INSTITUTIONAL.DHARMSHALA",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Hostel",
+      "code": "INSTITUTIONAL.HOSTEL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Mess / Canteen",
+      "code": "INSTITUTIONAL.CANTEENS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Auditorium",
+      "code": "INSTITUTIONAL.AUDITORIUM",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Convention Hall / Exibition Hall",
+      "code": "INSTITUTIONAL.CONVENTIONHALL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Research Intitutions",
+      "code": "INSTITUTIONAL.RESEARCHINTITUTIONS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Laboratory",
+      "code": "INSTITUTIONAL.LABORATORY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Warehouse",
+      "code": "INDUSTRIAL.WAREHOUSE",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Manufacturing Facility",
+      "code": "INDUSTRIAL.MANUFACTURINGFACILITY",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Industrial Usage",
+      "code": "INDUSTRIAL.OTHERINDUSTRIAL",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Kalyan mandap / Community Hall - Government",
+      "code": "GOVFACILITIES.GOVTKALYANMANDAP",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Statutory Organisation",
+      "code": "GOVFACILITIES.STAORG",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Bus Stand",
+      "code": "GOVFACILITIES.BUSSTAND",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Airport",
+      "code": "GOVFACILITIES.AIRPORT",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Railway Station",
+      "code": "GOVFACILITIES.RAILWAYSTATION",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Water Port",
+      "code": "GOVFACILITIES.WATERPORT",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Taxi/Auto Stand",
+      "code": "GOVFACILITIES.PVTAUTO",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Police/Defence Establishment",
+      "code": "GOVFACILITIES.DEFENCEEST",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Government Facilities",
+      "code": "GOVFACILITIES.OTHERS",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Cremation/Burial Ground",
+      "code": "OTHERS.CREMATION",
+      "active": true,
+      "fromFY": "2015-16"
+    },
+    {
+      "name": "Other Establishments",
+      "code": "OTHERS.OTHEREST",
+      "active": true,
+      "fromFY": "2015-16"
     }
   ]
 }
