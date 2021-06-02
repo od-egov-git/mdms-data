@@ -11,22 +11,22 @@
     {
       "name": "Institutional - Private ",
       "code": "INSTITUTIONALPRIVATE",
-      "active": false
+      "active": true
     },
     {
       "name": "Institutional - Government",
       "code": "INSTITUTIONALGOVERNMENT",
-      "active": false
+      "active": true
     },
     {
-      "name": "Individual - SingleOwner",
+      "name": "Single Owner",
       "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": false
+      "active": true
     },
     {
       "name": "Multiple Owners",
       "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": false
+      "active": true
     },
     {
       "name": "Private Company",
@@ -36,7 +36,7 @@
     {
       "name": "NGO",
       "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": false
+      "active": true
     },
     {
       "name": "Private Trust",
@@ -53,32 +53,6 @@
       "name": "State Government",
       "code": "INSTITUTIONALGOVERNMENT.STATEGOVERNMENT",
       "active": false
-    },
-    {
-      "name": "Institutional - Private",
-      "code": "INSTITUTIONALPRIVATE",
-      "active": true
-    },
-    {
-      "name": "Institutional- Government",
-      "code": "INSTITUTIONALGOVERNMENT",
-      "active": true
-    },
-    {
-      "name": "NGO",
-      "code": "INSTITUTIONALPRIVATE.NGO",
-      "active": true
-    },
-    
-    {
-      "name": "Single Owner",
-      "code": "INDIVIDUAL.SINGLEOWNER",
-      "active": true
-    },
-    {
-      "name": "Multiple Owner",
-      "code": "INDIVIDUAL.MULTIPLEOWNERS",
-      "active": true
     },
     {
       "name": "Private Board",

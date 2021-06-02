@@ -6,13 +6,13 @@
     {
       "name": "Single Owner",
       "code": "SINGLEOWNER",
-      "active": false,
+      "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Multiple Owners",
       "code": "MULTIPLEOWNERS",
-      "active": false,
+      "active": true,
       "ownerShipCategory": "INDIVIDUAL"
     },
     {
@@ -68,19 +68,6 @@
       "code": "OTHERGOVERNMENTINSTITUITION",
       "active": false,
       "ownerShipCategory": "INSTITUTIONALGOVERNMENT"
-    },
-    
-    {
-      "name": "Single Owner",
-      "code": "SINGLEOWNER",
-      "active": true,
-      "ownerShipCategory": "INDIVIDUAL"
-    },
-    {
-      "name": "Multiple Owner",
-      "code": "MULTIPLEOWNERS",
-      "active": true,
-      "ownerShipCategory": "INDIVIDUAL"
     },
     {
       "name": "Private Board",

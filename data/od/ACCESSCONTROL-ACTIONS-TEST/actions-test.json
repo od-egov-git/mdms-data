@@ -8037,28 +8037,6 @@
          "path": ""
       },
       {
-         "id": 1973,
-         "name": "Calculate Fee For Water Application through scheduler",
-         "url": "/ws-calculator/waterCalculator/_jobscheduler",
-         "displayName": "Fee Calculation For Water Application through scheduler",
-         "orderNumber": 0,
-         "enabled": true,
-         "serviceCode": "ws-calculator",
-         "code": "null",
-         "path": ""
-      },
-      {
-         "id": 1974,
-         "name": "Calculate Fee For Sewerage Application through scheduler",
-         "url": "/sw-calculator/sewerageCalculator/_jobscheduler",
-         "displayName": "Fee Calculation For Sewerage Application through scheduler",
-         "orderNumber": 0,
-         "enabled": true,
-         "serviceCode": "sw-calculator",
-         "code": "null",
-         "path": ""
-      },
-      {
          "id": 1962,
          "name": "propertytax Estimate v2",
          "url": "/pt-calculator-v2/propertytax/v2/_estimate",
@@ -9504,6 +9482,28 @@
          "serviceCode": "rainmaker pgr",
          "code": "null",
          "path": ""
-      }	  
+      },
+      {
+         "id": 1973,
+         "name": "Calculate Fee For Water Application through scheduler",
+         "url": "/ws-calculator/waterCalculator/_jobscheduler",
+         "displayName": "Fee Calculation For Water Application through scheduler",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "ws-calculator",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 1974,
+         "name": "Calculate Fee For Sewerage Application through scheduler",
+         "url": "/sw-calculator/sewerageCalculator/_jobscheduler",
+         "displayName": "Fee Calculation For Sewerage Application through scheduler",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "sw-calculator",
+         "code": "null",
+         "path": ""
+      } 
    ]
 }

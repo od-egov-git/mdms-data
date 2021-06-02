@@ -15,7 +15,7 @@
       "fromFY": "2015-16"
     },
     {
-      "name": "Mixed",
+      "name": "Mixed Holdings",
       "code": "MIXED",
       "active": true,
       "fromFY": "2015-16"
@@ -336,12 +336,6 @@
       "active": true,
       "fromFY": "2015-16"
     },
-    {
-      "name": "Mixed Holdings",
-      "code": "MIXED",
-      "active": true,
-      "fromFY": "2015-16"
-    }, 
     {
       "name": "Commercial",
       "code": "COMMERCIAL",
